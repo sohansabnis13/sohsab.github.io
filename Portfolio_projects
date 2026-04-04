@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Soh Sab - Portfolio</title>
+</head>
+<body>
+    <h1>Soh Sab</h1>
+    <p>Lead Project Manager | Fintech</p>
+
+    <h2>Projects</h2>
+
+    <h3>Contact Center Platform</h3>
+    <p>Led delivery of a scalable contact center solution for a credit union, managing 40+ team members and enabling support for 1000+ members.</p>
+
+    <h3>CRM Platform</h3>
+    <p>Built a Member 360 CRM system integrating multiple banking systems and handling 25K+ service requests annually.</p>
+
+</body>
+</html>
